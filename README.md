@@ -11,4 +11,4 @@ Compilation with GCC and GNU Make
 Memory Types, Segments and Management
 
 * Week4
-Final Assesment
+Final Assessment
